@@ -10,6 +10,6 @@ int main()
 	printf("Enter the second value\n");
 	scanf("%d",&num2);
 	resultado = num1 + num2;
-	printf("El resultado de la suma es:%d\n",resultado);
+	printf("El resultado de la suma es:%d\n", resultado);
 	return 0;
 }
